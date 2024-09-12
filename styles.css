@@ -1,4 +1,22 @@
 body{
     background-color: purple;
-    color: orange
+    color: orange;
+}
+main{
+    background-color: white;
+    color: black;
+    padding-top: .5%;
+    padding-left: 1.5%;
+    padding-bottom: 1%;
+    padding-right: 1.5%;
+    margin:0 auto;
+    width: 80%;
+}
+.heading{
+    background-color: black;
+    padding-top: .5%;
+    padding-left: 1.5%;
+    padding-bottom: 1%;
+    padding-right: 1.5%;
+    color: orange;
 }
